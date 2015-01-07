@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="Second.CSS"/>
+		<title>Second</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="top">
+				<div class="content white">
+					<p>First, let me say I respect everyone’s choice to eat whatever diet they like and those foods that they feel are best suited for themselves and their families. I also respect people’s decisions to abstain from eating meat for religious, moral, and ethical reasons. Peanuts carrots I like them all but where do the the chickens eat.</p>
+					<div class="button red">Click</div>
+					<div class="button blue">Click</div>
+				</div>
+				<div class="middle white">
+					<img src="http://cdn-img2.streeteasy.com/nyc/image/70/31490470.jpg">
+					<div class="conclusion">
+						<p>Like and those foods that they feel are best suited for themselves and their families. I also respect people’s decisions to abstain. APple beets are great for cooking in the usmmer on a friday but not peanuts carrots I like them all but where do the the chickens eat food on friday.</p>
+					</div>
+				</div>
+			</div>
+			<div class="bottom gray">
+				<div class="link">Apple</div>
+				<div class="link">Google</div>
+			</div>
+		</div>
+	</body>
+</html>

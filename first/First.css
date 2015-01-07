@@ -1,0 +1,72 @@
+html, body {
+	height: 100%;
+	margin: 0%;
+	background-color: #ddd;
+}
+.container{
+	height: 820px;
+	width: 605px;
+	margin: 0 auto;
+	padding: 16px;
+	background-color: white;
+}
+.header{
+	height: 105px;
+}
+.content {
+	width: 100%;
+}
+.content p {
+	padding: 10px 0px;
+}
+.bigbar {
+	width: 605px;
+	height: 250px;
+}
+.bigbar1 {
+	width: 191px;
+	height: 100%;
+}
+.bigbar2 {
+	width: 414px;
+	height: 100%;
+}
+.footer {
+	height: 105px;
+	margin-top: 20px;
+}
+.left {
+	width: 390px;
+	height: 100%;
+}
+.right {
+	width: 215px;
+	height: 100%;
+}
+.blackbox{
+	margin: 0 auto;
+	width: 128px;
+	height: 100%;
+}
+.float-left {
+	float: left;
+}
+.red {
+	background-color: hsl(353,98%,41%);
+}
+.blue {
+	background-color: hsl(212,72%,59%);
+}
+.black {
+	background-color: hsl(0,0%,29%);
+}
+.size {
+	height: 105px;
+	width: 180px;
+	margin-right: 32px;
+}
+.size-last {
+	height: 105px;
+	width: 180px;
+	float: left;
+}

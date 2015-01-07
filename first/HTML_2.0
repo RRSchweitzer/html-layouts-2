@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="First.css"/>
+		<title>first</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="header">
+				<div class="red float-left size"></div>
+				<div class="blue float-left size"></div>
+				<div class="black float-left size-last"></div>
+			</div>
+			<div class="content">
+				<p>President Francois Hollande said there was no doubt it had been a terrorist attack "of exceptional barbarity". It is believed to be the deadliest attack in France since 1961, when right-wingers who wanted to keep Algeria French bombed a train, killing 28 people.
+
+				The masked attackers opened fire with assault rifles in the office and exchanged shots with police in the street outside before escaping by car. They later abandoned the car in Rue de Meaux, northern Paris, where they hijacked a second car.</p>
+			</div>
+			<div class="bigbar">
+				<div class="bigbar1 red float-left"></div>
+				<div class="bigbar2 blue float-left"></div>
+			</div>
+			<div class="footer">
+				<div class="left blue float-left"></div>
+				<div class="right red float-left">
+					<div class="blackbox black"></div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

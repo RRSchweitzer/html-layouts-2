@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="Third.CSS"/>
+		<title>Second</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="bar gray">
+				<div class="link">Apple</div>
+				<div class="link">Google</div>
+			</div>
+		<div class="content col1">
+			<h1>Type Something</h1>
+			<p>The ability to easily create a web-application is provided by an Automator action included with the service installation. This action's user-interface is displayed in a dialog when the service is launched, and offers options for titling and attributing the article, and for including image and/or video content. Here's an overview of the action interface.</p>
+
+			<p>The ability to easily create a web-application is provided by an Automator action included with the service installation. This action's user-interface is displayed in a dialog when the service is launched, and offers options for titling and attributing the article, and for including image.</p>
+			
+			<p>The ability to easily create a web-application is provided by an Automator action included with the service installation. This action's user-interface is dticle, and for including image and/or video content. Here's an overview of the action interface</p>
+		</div>
+		<div class="content col2">
+			<img src="http://cdn-img2.streeteasy.com/nyc/image/70/31490470.jpg">
+			<p>The ability to easily create a web-application is provided by an Automator action included with the service installation. This action's user-interface is displayed in a dialog when the service is launched, and offers options for titling and attributing the article, and for including image and/or video content. Here's an overview of the action interface.</p>
+			<p>The ability to easily create a web-application is provided by an Automator the service is launched, and offers options for titling and attributing the article, and for including image and/or video content. </p>
+		</div>
+		<div class="footer bar gray"></div>
+	</body>
+</html>
